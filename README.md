@@ -1,7 +1,7 @@
 # MySocialApp Front-end
 
 **Live Demo:** 
-**Repository:** 
+**Repository:** https://github.com/NoroffFEU/fed2-js2-ca-olekb2001.git
 
 ---
 
@@ -54,14 +54,14 @@ MySocialApp is a vanilla-JavaScript front-end client for the Noroff Social Media
 ---
 
 
-4. JSDoc Documentation
+## Tech StackJSDoc Documentation
 
-Several key functions are documented with JSDoc:
+- Several key functions are documented with JSDoc:
 
-readPosts(limit, page, tag) in src/js/api/post/read.js
+- readPosts(limit, page, tag) in src/js/api/post/read.js
 
-readComments(postId) and createComment(postId, {body}) in src/js/api/post/comment.js
+- readComments(postId) and createComment(postId, {body}) in src/js/api/post/comment.js
 
-onLogin(event) in src/js/ui/auth/login.js
+- onLogin(event) in src/js/ui/auth/login.js
 
-Each includes parameter descriptions, return types, and thrown errors.
+- Each includes parameter descriptions, return types, and thrown errors.
