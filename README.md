@@ -1,6 +1,7 @@
 # MySocialApp Front-end
 
 **Live Demo:** 
+
 **Repository:** https://github.com/NoroffFEU/fed2-js2-ca-olekb2001.git
 
 ---
