@@ -2,7 +2,7 @@
 const BASE = "https://v2.api.noroff.dev/auth";
 
 /**
- * Exchange email+password for aa JwT.
+ * Exchange email+password for a JWT.
  * @param {{ email: string, password: string }} creds
  * @returns {Promise<{ accessToken: string }>}
  */

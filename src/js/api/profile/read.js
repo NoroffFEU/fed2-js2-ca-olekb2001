@@ -12,7 +12,7 @@ export async function readProfile(username) {
   const token  = getToken();
   const apiKey = getApiKey();
 
-  // ask the API to include full follower & following arrais
+  // ask the API to include full follower & following arrays
   const params = new URLSearchParams({
     _followers: true,
     _following: true,

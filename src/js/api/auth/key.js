@@ -4,7 +4,7 @@ import { getToken } from "../../utilities/storage.js";
 const BASE = "https://v2.api.noroff.dev/auth";
 
 /**
- * Create (or retrieve) a Social API key.
+ * Create (or retrieve) a Noroff Social API key.
  * @returns {Promise<string>}
  */
 export async function createApiKey() {

@@ -3,7 +3,7 @@ import { getToken, getApiKey } from "../../utilities/storage.js";
 const BASE = "https://v2.api.noroff.dev/social";
 
 /**
- * Delete a post by ID.
+ * Delete a post by ID
  * @param {string} id
  */
 export async function deletePost(id) {
